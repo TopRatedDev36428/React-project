@@ -14,11 +14,11 @@ So, I published Chat page of AFF.
 
 
 ## IMG
-![Logo](https://github.com/Gamy36428/React-project/Client/assets/img/AFF.png)
+![Logo](https://github.com/Gamy36428/React-project/blob/main/Client/assets/img/main.png)
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Gamy36428/React-project/Client/assets/img/AFF.png)
+![App Screenshot](https://github.com/Gamy36428/React-project/blob/main/Client/assets/img/AFF.png)
 
 
