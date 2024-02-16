@@ -2,9 +2,9 @@
 # React-project
 
 This project is a AFF.
-AFF means Assistant for Freelancer.
+AFF stands for Assistant for Freelancer.
 This site is a last company local site.
-It is secret.
+It is a local-business, so It is secret.
 So, I published Chat page of AFF.
 
 
