@@ -39,7 +39,7 @@ module.exports = (socket, users) => {
 
       if (!res.expired) {
         try {
-          //postgreSQL's array type  {3,4,5,6,8}
+          //postgreSQL's array type  {1,2,3,4,5,6,8}
           let text = "";
           for (let i = 0; i < data.receivers.length; i++) {
             if (data.receivers.length === 1) {
